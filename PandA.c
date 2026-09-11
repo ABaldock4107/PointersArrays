@@ -1,7 +1,5 @@
 #include <stdio.h>
-const int MAX=9
-
-printf("Welcome to pointers and arrays! We will have fun learning and producing"); 
+const int MAX=9; 
 
 void printValues(int*);
 void sort(int*);
