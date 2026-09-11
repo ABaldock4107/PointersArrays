@@ -1,6 +1,8 @@
 #include <stdio.h>
 const int MAX=9
 
+printf("Welcome to pointers and arrays! We will have fun learning and producing"); 
+
 void printValues(int*);
 void sort(int*);
 void swap(int*, int*);

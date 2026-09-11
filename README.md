@@ -5,14 +5,14 @@ A list of functions (later, objects, methods, and attributes) that will be built
 
 For each function:
  what are the input values (If any)
- create a sep by step list of instructions
- the instructions should be clear enough that you can follow them by hand
- they should also be succinct enough that each instruction should turn into one or two lines of code
- indicate the value that should return (if any)
+   create a sep by step list of instructions
+   the instructions should be clear enough that you can follow them by hand
+   they should also be succinct enough that each instruction should turn into one or two lines of code
+   indicate the value that should return (if any)
 
 include stdio.h
-make the max integer 9
-array consists of integrs 1-9
+ make the max integer 9
+ array should consist of integrs 1-9
 
 
 main:
