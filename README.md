@@ -19,26 +19,35 @@ main:
  create a main 
  create 'values' in an unordered order
  print the before, go through swaps, print after using 'values'
- 
+ test the swap value with a x and y integer
+print the values
+swap the values
+print the after 
+return 0
+
 PrintValues:
+create int i
+for i 0 to max 
+ print array[i]
 
 
 swap:
+create a temp value
+temp shpuld get the value of a
+a should have value of b
 
 
 Sort:
-print the before array of numbers in main
-create int x
-create int y
+create two integers
+i and j
+for i 0 to max -1
+ for j 0 to max -1
+  if array j bigger than array j+1
+   swap array j with array [j+1]
+   print the array
 
-print int x, print int y
-swap using the 'swap' function int x and y
-print the new int x and the new int y
-using the 'sort' function sort the values
 
- printf("x: %d, y: %d \n", x, y); - %d takes an int and prints it into a base 10 format 
-  swap(&x, &y); - 
-  printf("x: %d, y: %d \n", x, y);
+
 
 
 
